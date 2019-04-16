@@ -5,3 +5,5 @@ This repository attempts to show a simple example of squashing commits on a feat
 An experimental change made on apple branch.
 
 2nd change to apple branch.
+
+3rd change to apple branch.
